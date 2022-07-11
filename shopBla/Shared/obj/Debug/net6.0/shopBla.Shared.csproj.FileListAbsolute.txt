@@ -1,0 +1,12 @@
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\bin\Debug\net6.0\shopBla.Shared.deps.json
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\bin\Debug\net6.0\shopBla.Shared.dll
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\bin\Debug\net6.0\shopBla.Shared.pdb
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.csproj.AssemblyReference.cache
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.AssemblyInfoInputs.cache
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.AssemblyInfo.cs
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.csproj.CoreCompileInputs.cache
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.dll
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\refint\shopBla.Shared.dll
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\shopBla.Shared.pdb
+C:\Users\OCEAN\Documents\Triton\shopBla\shopBla\Shared\obj\Debug\net6.0\ref\shopBla.Shared.dll
