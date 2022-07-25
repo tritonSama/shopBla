@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vy6mH9EHH3TRZ2rLBtfouBndm96kbuKUrpgQDCmkoYw1JuyTLi5FBn+hVnXExbZ6LrnC9rDY46bSjEz83dMcyA==",
+  "dgSpecHash": "pbUPJyDvpp4vT9WrKNffY8uAqAqdqYjCp0KTH9Sh395MmFA2MqFO/7WnZ1P011a4GSL4aS730kIUBIpr8S6yRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\OCEAN\\Documents\\Triton\\shopBla\\shopBla\\Client\\shopBla.Client.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\OCEAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\OCEAN\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\OCEAN\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\OCEAN\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.6\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.6.nupkg.sha512"
+    "C:\\Users\\OCEAN\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.7.nupkg.sha512"
   ],
   "logs": []
 }
